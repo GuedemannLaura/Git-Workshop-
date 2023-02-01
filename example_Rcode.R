@@ -2,7 +2,8 @@
 # Git Workshop 1: Example code -------------------------------------------------
 #
 
-#  This is a change in the document 
+# 
+# this is a new change
 
 #
 # load data --------------------------------------------------------------------
