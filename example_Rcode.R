@@ -3,7 +3,7 @@
 #
 
 # 
-# this is a new change
+# Laura made a change in line 6 to generate a merge conflict with Ethan
 
 #
 # load data --------------------------------------------------------------------
