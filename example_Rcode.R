@@ -3,11 +3,7 @@
 #
 
 # 
-<<<<<<< HEAD
-# Hello!
-=======
-# Laura made a change in line 6 to generate a merge conflict with Ethan
->>>>>>> f37e018a7e356d9deef452524781876efd251b5b
+# Ethan here
 
 #
 # load data --------------------------------------------------------------------
