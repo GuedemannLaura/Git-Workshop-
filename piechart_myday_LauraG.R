@@ -1,7 +1,7 @@
 #
 # Some example code for the collaboration --------------------------------------
 #
-
+#John's changes
 
 # Create data for the graph.
 x <- c(21, 62, 11, 53)
